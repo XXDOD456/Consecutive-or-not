@@ -1,0 +1,13 @@
+C:\Users\XXDOD\source\repos\idk\idk\bin\Debug\netcoreapp3.1\idk.exe
+C:\Users\XXDOD\source\repos\idk\idk\bin\Debug\netcoreapp3.1\idk.deps.json
+C:\Users\XXDOD\source\repos\idk\idk\bin\Debug\netcoreapp3.1\idk.runtimeconfig.json
+C:\Users\XXDOD\source\repos\idk\idk\bin\Debug\netcoreapp3.1\idk.runtimeconfig.dev.json
+C:\Users\XXDOD\source\repos\idk\idk\bin\Debug\netcoreapp3.1\idk.dll
+C:\Users\XXDOD\source\repos\idk\idk\bin\Debug\netcoreapp3.1\idk.pdb
+C:\Users\XXDOD\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.csprojAssemblyReference.cache
+C:\Users\XXDOD\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.csproj.CoreCompileInputs.cache
+C:\Users\XXDOD\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.AssemblyInfoInputs.cache
+C:\Users\XXDOD\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.AssemblyInfo.cs
+C:\Users\XXDOD\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.dll
+C:\Users\XXDOD\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.pdb
+C:\Users\XXDOD\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.genruntimeconfig.cache
